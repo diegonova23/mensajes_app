@@ -1,17 +1,18 @@
+package org.example;
+
 public class Mensajes {
     int id_mensaje;
     String mensaje;
     String autor_mensaje;
     String fecha_mensaje;
 
+    public Mensajes() {
+
+    }
     public Mensajes(String mensaje, String autor_mensaje, String fecha_mensaje) {
         this.mensaje = mensaje;
         this.autor_mensaje = autor_mensaje;
         this.fecha_mensaje = fecha_mensaje;
-    }
-
-    public Mensajes() {
-
     }
 
     public int getId_mensaje() {

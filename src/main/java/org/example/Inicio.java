@@ -1,4 +1,5 @@
-import java.sql.Connection;
+package org.example;
+
 import java.util.Scanner;
 
 public class Inicio {
