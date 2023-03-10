@@ -1,5 +1,3 @@
-package org.example;
-
 public class Mensajes {
     int id_mensaje;
     String mensaje;

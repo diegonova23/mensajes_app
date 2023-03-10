@@ -1,5 +1,3 @@
-package org.example;
-
 public class MensajesDAO {
     public static void crearMensajeDB(Mensajes mensaje) {
 

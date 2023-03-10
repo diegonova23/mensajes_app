@@ -1,5 +1,3 @@
-package org.example;
-
 public class MensajesServicio {
     public static void crearMensaje() {
 

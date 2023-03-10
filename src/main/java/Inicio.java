@@ -1,8 +1,7 @@
-package org.example;
-
+import java.sql.Connection;
 import java.util.Scanner;
 
-public class Main {
+public class Inicio {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
